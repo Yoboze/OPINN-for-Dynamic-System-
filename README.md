@@ -20,5 +20,5 @@ Artificial neural networks have changed many fields by giving scientists a stron
 
 
 
-**Below is the link to download the paper "Data-driven Deep Learning Neural Networks for Predicting the Number of Individuals Infected by COVID-19 Omicron Variant" published**
+**Below is the link to download the paper "Optimizing Physics-Informed Neural Network in Dynamic System Simulation and Learning of Parameters" published**
 https://www.mdpi.com/1999-4893/16/12/547
